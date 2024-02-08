@@ -19,7 +19,7 @@ import {
 
 import {
   Colors,
-  // DebugInstructions,
+  DebugInstructions,
   Header,
   LearnMoreLinks,
   ReloadInstructions,
